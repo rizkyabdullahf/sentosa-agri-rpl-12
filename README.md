@@ -158,7 +158,7 @@ Admin dapat melakukan fungsi CRUD pada fitur barang, kategori barang, user, dan 
 	<li> User sangat nyaman dengan tampilan antarmuka pada halaman konsumen maupun admin. </li>
 </ul>
 
-<h3> Positive Case </h3>
+<h3> Negative Case </h3>
   <ul> 
 	<li> Pada bagian detail barang, tidak terdapat jumlah stock barang, sehingga membingungkan konsumen apakah barang tersedia atau kosong. </li>
 	<li> Tidak terdapat fitur akun profil pengguna yang diperuntukan mengganti alamat, no telepon, dan password. </li>
