@@ -134,12 +134,13 @@ Admin dapat melakukan fungsi CRUD pada fitur barang, kategori barang, user, dan 
 <h3> Screenshot Sistem </h3>
 <p align="center">
   <img src="https://github.com/rizkyabdullahf/sentosa-agri-rpl-12/blob/main/Halaman%20Home.png?raw=true" width="600">
-	 <img src="https://github.com/rizkyabdullahf/sentosa-agri-rpl-12/blob/main/Halaman%20Home%202.png?raw=true" width="600">
-	 <img src="https://github.com/rizkyabdullahf/sentosa-agri-rpl-12/blob/main/Keranjang%20Belanja.png?raw=true" width="600">
-	 <img src="https://github.com/rizkyabdullahf/sentosa-agri-rpl-12/blob/main/Proses%20Check%20Out.png?raw=true" width="600">
-	<img src="https://github.com/rizkyabdullahf/sentosa-agri-rpl-12/blob/main/Proses%20Pesanan%20Belanja.png?raw=true" width="600">
-	 <img src="https://github.com/rizkyabdullahf/sentosa-agri-rpl-12/blob/main/Halaman%20Pembayaran.png?raw=true" width="600">
-	 <img src="https://github.com/rizkyabdullahf/sentosa-agri-rpl-12/blob/main/Proses%20Order.png?raw=true" width="600">	
+	<br> <br>
+	 <img src="https://github.com/rizkyabdullahf/sentosa-agri-rpl-12/blob/main/Halaman%20Home%202.png?raw=true" width="600"> <br> <br>
+	 <img src="https://github.com/rizkyabdullahf/sentosa-agri-rpl-12/blob/main/Keranjang%20Belanja.png?raw=true" width="600"> <br> <br>
+	 <img src="https://github.com/rizkyabdullahf/sentosa-agri-rpl-12/blob/main/Proses%20Check%20Out.png?raw=true" width="600"> <br> <br>
+	<img src="https://github.com/rizkyabdullahf/sentosa-agri-rpl-12/blob/main/Proses%20Pesanan%20Belanja.png?raw=true" width="600"> <br> <br>
+	 <img src="https://github.com/rizkyabdullahf/sentosa-agri-rpl-12/blob/main/Halaman%20Pembayaran.png?raw=true" width="600"> <br> <br>
+	 <img src="https://github.com/rizkyabdullahf/sentosa-agri-rpl-12/blob/main/Proses%20Order.png?raw=true" width="600"> <br> <br>	
   </p>
   
   <h3> Link Aplikasi </h3>
@@ -152,21 +153,21 @@ Admin dapat melakukan fungsi CRUD pada fitur barang, kategori barang, user, dan 
  ## Testing (Test Cases)
  <h3> Positive Case </h3>
   <ul> 
-	<li> User mudah cepat paham dan mengerti dengan tahapan-tahapan task pemesanan barang </li>
-	<li> User dapat mengakses tiap-tiap halaman dengan cepat tanpa menunggu lama </li>
-	<li> User sangat nyaman dengan tampilan antarmuka pada halaman konsumen maupun admin </li>
+	<li> User mudah paham dan mengerti dengan tahapan-tahapan task pemesanan barang. </li>
+	<li> User dapat mengakses tiap-tiap halaman dengan cepat tanpa menunggu lama. </li>
+	<li> User sangat nyaman dengan tampilan antarmuka pada halaman konsumen maupun admin. </li>
 </ul>
 
 <h3> Positive Case </h3>
   <ul> 
-	<li> Pada bagian detail barang, tidak terdapat jumlah stock barang, sehingga membingungkan konsumen apakah barang tersedia atau tidak </li>
-	<li> Tidak terdapat fitur akun profil pengguna yang diperuntukan mengganti alamat, no telepon, dan password </li>
-	<li> Tidak terdapat akses lupa password pada halaman login </li>
+	<li> Pada bagian detail barang, tidak terdapat jumlah stock barang, sehingga membingungkan konsumen apakah barang tersedia atau kosong. </li>
+	<li> Tidak terdapat fitur akun profil pengguna yang diperuntukan mengganti alamat, no telepon, dan password. </li>
+	<li> Tidak terdapat akses lupa password pada halaman login. </li>
 </ul>
 
 ## Saran untuk pengembangan selanjutnya
  <ul> 
-	<li> Sebaiknya terdapat keterangan stock barang pada saat konsumen mengakses bagian detail barang </li>
-	<li> Sebaiknya ditambahkan fitur akun profil pengguna agar admin tidak perlu kerepotan mengganti secara manual </li>
-	<li> Sebaiknya ditambahkan fungsi untuk dapat melakukan akses lupa password apabila konsumen lupa email atau password </li>
+	<li> Sebaiknya terdapat keterangan stock barang pada saat konsumen mengakses bagian detail barang. </li>
+	<li> Sebaiknya ditambahkan fitur akun profil pengguna agar admin tidak perlu kerepotan mengganti secara manual. </li>
+	<li> Sebaiknya ditambahkan fungsi untuk dapat melakukan akses lupa password apabila konsumen lupa email atau password. </li>
 </ul>
