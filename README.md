@@ -148,3 +148,25 @@ Admin dapat melakukan fungsi CRUD pada fitur barang, kategori barang, user, dan 
 	<li> https://sentosa-agri.000webhostapp.com/admin </li>
 	<li> https://databases-auth.000webhost.com/db_structure.php?server=1&db=id16953814_sentosaagrimarket </li>
 </ul>
+
+ ## Testing (Test Cases)
+ <h3> Positive Case </h3>
+  <ul> 
+	<li> User mudah cepat paham dan mengerti dengan tahapan-tahapan task pemesanan barang </li>
+	<li> User dapat mengakses tiap-tiap halaman dengan cepat tanpa menunggu lama </li>
+	<li> User sangat nyaman dengan tampilan antarmuka pada halaman konsumen maupun admin </li>
+</ul>
+
+<h3> Positive Case </h3>
+  <ul> 
+	<li> Pada bagian detail barang, tidak terdapat jumlah stock barang, sehingga membingungkan konsumen apakah barang tersedia atau tidak </li>
+	<li> Tidak terdapat fitur akun profil pengguna yang diperuntukan mengganti alamat, no telepon, dan password </li>
+	<li> Tidak terdapat akses lupa password pada halaman login </li>
+</ul>
+
+## Saran untuk pengembangan selanjutnya
+ <ul> 
+	<li> Sebaiknya terdapat keterangan stock barang pada saat konsumen mengakses bagian detail barang </li>
+	<li> Sebaiknya ditambahkan fitur akun profil pengguna agar admin tidak perlu kerepotan mengganti secara manual </li>
+	<li> Sebaiknya ditambahkan fungsi untuk dapat melakukan akses lupa password apabila konsumen lupa email atau password </li>
+</ul>
