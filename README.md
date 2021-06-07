@@ -71,10 +71,46 @@ Sebagai seorang pengusaha bumbu dapur, saya ingin membangun sistem toko online d
 
 <h3> Tech Stack </h3>
 <ul>
-<li> PHP, Javascript    							: (Programming Languange) <br> </li> 
-<li> Codeigniter 3      							: (Framework) <br> </li>
-<li> HTML5, Boostrap, Admin LTE 3     : (User Interface) <br> </li>
-<li> MySQL / Xampp 										: (Database Server)</li>
+<li> PHP, Javascript    		: (Programming Languange) <br> </li> 
+<li> Codeigniter 3      		: (Framework) <br> </li>
+<li> HTML5, Boostrap, Admin LTE 3     	: (User Interface) <br> </li>
+<li> MySQL / Xampp 			: (Database Server)</li>
 
 </ul>
-		
+
+## Hasil dan Pembahasan
+<h3> 1. Use Case Diagram </h3>
+  <ul>
+  <li>  <b> Pemesanan Barang </b> </li>
+  <p align="center">
+  <img src="https://github.com/rizkyabdullahf/sentosa-agri-rpl-12/blob/main/UC%20Pesanan%20Barang.png?raw=true" width="500">
+  </p>
+	
+   <li>  <b> Halaman Admin  </b> </li>
+  <p align="center">
+  <img src="https://github.com/rizkyabdullahf/sentosa-agri-rpl-12/blob/main/UC%20Halaman%20Admin.png?raw=true" width="500">
+  </p>
+	</ul>
+
+<h3> 2. Activity Diagram </h3>
+  <ul>
+  <li>  <b> Task Utama </b> </li>
+  <p align="center">
+  <img src="https://github.com/rizkyabdullahf/sentosa-agri-rpl-12/blob/main/AC%20Task%20Utama.png?raw=true" width="500">
+  </p>
+	
+<h3> 3. Class Diagram </h3>
+  <ul>
+  <li>  </li>
+  <p align="center">
+  <img src="https://github.com/rizkyabdullahf/sentosa-agri-rpl-12/blob/main/CS%20Database.png?raw=true" width="500">
+  </p>
+	  
+<h3> 4. Entity Relationship Diagram </h3>
+  <ul>
+  <li>  </li>
+  <p align="center">
+  <img src="https://github.com/rizkyabdullahf/sentosa-agri-rpl-12/blob/main/ERD%20Database.png?raw=true" width="500">
+  </p>
+	
+	
