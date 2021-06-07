@@ -131,6 +131,20 @@ User dapat melakukan fungsi <b> Create </b> pada saat konsumen melakukan penamba
 Admin dapat melakukan fungsi CRUD pada fitur barang, kategori barang, user, dan gambar barang. Pada <b> fitur kategori barang </b>, admin dapat menambahkan kategori barang, menghapus kategori barang, dan mengedit kategori barang. Pada fitur <b> barang </b>, admin dapat menambahkan barang, menghapus barang, dan mengedit barang. Pada fitur <b> user </b>, admin dapat menambahkan username atau password user tanpa harus melakukan proses registrasi. Pada <b> fitur gambar barang </b>, admin dapat menambahkan gambar barang, menghapus gambar barang, dan memperbaharui gambar barang. 
 
 ## Hasil Implementasi
+<h3> Screenshot Sistem </h3>
 <p align="center">
-  <img src="https://github.com/rizkyabdullahf/sentosa-agri-rpl-12/blob/main/Arsitektur%20sentosa%20agri.png?raw=true" width="600">
+  <img src="https://github.com/rizkyabdullahf/sentosa-agri-rpl-12/blob/main/Halaman%20Home.png?raw=true" width="600">
+	 <img src="https://github.com/rizkyabdullahf/sentosa-agri-rpl-12/blob/main/Halaman%20Home%202.png?raw=true" width="600">
+	 <img src="https://github.com/rizkyabdullahf/sentosa-agri-rpl-12/blob/main/Keranjang%20Belanja.png?raw=true" width="600">
+	 <img src="https://github.com/rizkyabdullahf/sentosa-agri-rpl-12/blob/main/Proses%20Check%20Out.png?raw=true" width="600">
+	<img src="https://github.com/rizkyabdullahf/sentosa-agri-rpl-12/blob/main/Proses%20Pesanan%20Belanja.png?raw=true" width="600">
+	 <img src="https://github.com/rizkyabdullahf/sentosa-agri-rpl-12/blob/main/Halaman%20Pembayaran.png?raw=true" width="600">
+	 <img src="https://github.com/rizkyabdullahf/sentosa-agri-rpl-12/blob/main/Proses%20Order.png?raw=true" width="600">	
   </p>
+  
+  <h3> Link Aplikasi </h3>
+  <ul> 
+	<li> https://sentosa-agri.000webhostapp.com/ </li>
+	<li> https://sentosa-agri.000webhostapp.com/admin </li>
+	<li> https://databases-auth.000webhost.com/db_structure.php?server=1&db=id16953814_sentosaagrimarket </li>
+</ul>
