@@ -93,24 +93,44 @@ Sebagai seorang pengusaha bumbu dapur, saya ingin membangun sistem toko online d
 	</ul>
 
 <h3> 2. Activity Diagram </h3>
-  <ul>
   <li>  <b> Task Utama </b> </li>
   <p align="center">
   <img src="https://github.com/rizkyabdullahf/sentosa-agri-rpl-12/blob/main/AC%20Task%20Utama.png?raw=true" width="500">
   </p>
 	
 <h3> 3. Class Diagram </h3>
-  <ul>
-  <li>  </li>
   <p align="center">
   <img src="https://github.com/rizkyabdullahf/sentosa-agri-rpl-12/blob/main/CS%20Database.png?raw=true" width="500">
   </p>
 	  
 <h3> 4. Entity Relationship Diagram </h3>
-  <ul>
-  <li>  </li>
   <p align="center">
   <img src="https://github.com/rizkyabdullahf/sentosa-agri-rpl-12/blob/main/ERD%20Database.png?raw=true" width="500">
   </p>
-	
-	
+	  
+<h3> 5. Arsitektur Sistem </h3>
+  <p align="center">
+  <img src="https://github.com/rizkyabdullahf/sentosa-agri-rpl-12/blob/main/Arsitektur%20sentosa%20agri.png?raw=true" width="300">
+  </p>
+	  
+<h3> 6. Fungsi utama yang dikembangkan </h3>
+<li>  <b> A. Fitur Transaksi  </b> </li> 
+Pada halaman home, konsumen telah berada pada halaman dimana barang-barang bahan pangan telah tersedia berdasarkan kategori barang yang dipilih. Konsumen dapat melakukan akses detail barang dan penambahan barang ke dalam keranjang. Setelah barang dimasukkan ke dalam keranjang konsumen dapat membuat pesanan belanja, memperbaharui pesanan belanja, dan menghapus belanja. Apabila konsumen memiliki pesanan belanja, maka akan diarahkan ke proses check out, dan melakukan pembayaran berdasarkan metode pembayaran yang dipilih. <br> <br>
+
+  <li>  <b> B. Fitur barang, gambar barang, dan kategori barang pada halaman admin  </b> </li> 
+  Pada halaman admin, pengusaha bahan pangan berada pada halaman khusus dimana pengusaha ditujukan sebagai admin untuk memenuhi sebagai permintaan layanan dari konsumen. Ketersediaan barang pada halaman home bergantung pada pengaturan halaman admin bagian fitur barang, kategori barang, dan gambar barang. Pada fitur barang, admin dapat menambahkan barang, menghapus barang, dan mengedit barang. Pada fitur kategori barang, admin dapat menambahkan kategori barang baru, menghapus kategori barang lama, dan mengedit kategori barang. Pada fitur gambar, admin dapat menambahkan gambar barang berdasarkan kebutuhan konsumen dan ketersediaan barang. <br> <br>
+
+<li>  <b> C. Fitur pesanan masuk pada halaman admin  </b> </li> 
+Pada halaman admin, pengusaha dapat mengelola pesanan yang masuk dengan 4 tahapan, yaitu pesanan masuk dengan keterangan konsumen belum bayar, diproses, dikirim, dan selesai. Admin bertanggung jawab atas proses transaksi yang dilakukan oleh konsumen dan akan memastikan bahwa proses transaksi akan berjalan dengan baik sesuai prosedur yang telah ditetapkan. <br> <br>
+
+<h3> 7. Fungsi CRUD </h3>
+<li>  <b> CRUD User  </b> </li> 
+User dapat melakukan fungsi <b> Create </b> pada saat konsumen melakukan penambahan barang ke dalam keranjang untuk membuat pesanan barang. Selain itu, user dapat melakukan fungsi <b> Read </b> untuk membaca keterangan detail barang baik dari sisi harga, berat, dan kuantitas. User dapat melakukan fungsi <b> Delete  </b> untuk menghapus pesanan belanja apabila tidak jadi melakukan pesanan, dan user dapat melakukan fungsi <b> Update </b> pada saat konsumen ingin memperbaharui quantity barang apabila terjadi kelebihan atau kekurangan dalam melakukan pesanan. <br> <br>
+
+<li>  <b> CRUD Admin  </b> </li> 
+Admin dapat melakukan fungsi CRUD pada fitur barang, kategori barang, user, dan gambar barang. Pada <b> fitur kategori barang </b>, admin dapat menambahkan kategori barang, menghapus kategori barang, dan mengedit kategori barang. Pada fitur <b> barang </b>, admin dapat menambahkan barang, menghapus barang, dan mengedit barang. Pada fitur <b> user </b>, admin dapat menambahkan username atau password user tanpa harus melakukan proses registrasi. Pada <b> fitur gambar barang </b>, admin dapat menambahkan gambar barang, menghapus gambar barang, dan memperbaharui gambar barang. 
+
+## Hasil Implementasi
+<p align="center">
+  <img src="https://github.com/rizkyabdullahf/sentosa-agri-rpl-12/blob/main/Arsitektur%20sentosa%20agri.png?raw=true" width="600">
+  </p>
